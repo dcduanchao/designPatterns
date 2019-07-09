@@ -1,4 +1,4 @@
-package com.example.demo.StrategyPattern;
+package com.example.demo.dc.StrategyPattern;
 
 /**
  * @author duanchao
