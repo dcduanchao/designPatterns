@@ -1,4 +1,4 @@
-package com.example.demo.dc.strategypattern;
+package com.example.demo.dc.design.strategypattern;
 
 /**
  * @author duanchao

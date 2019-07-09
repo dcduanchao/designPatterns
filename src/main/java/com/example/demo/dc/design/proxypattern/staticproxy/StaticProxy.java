@@ -1,4 +1,4 @@
-package com.example.demo.dc.proxypattern.staticproxy;
+package com.example.demo.dc.design.proxypattern.staticproxy;
 
 /**
  * @author duanchao

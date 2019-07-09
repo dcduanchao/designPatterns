@@ -1,9 +1,9 @@
-package com.example.demo.dc.proxypattern;
+package com.example.demo.dc.design.proxypattern;
 
-import com.example.demo.dc.proxypattern.dynamicproxy.DynamicProxy;
-import com.example.demo.dc.proxypattern.staticproxy.StaticByProxyClass;
-import com.example.demo.dc.proxypattern.staticproxy.StaticProxy;
-import com.example.demo.dc.proxypattern.staticproxy.StaticProxyClass;
+import com.example.demo.dc.design.proxypattern.dynamicproxy.DynamicProxy;
+import com.example.demo.dc.design.proxypattern.staticproxy.StaticByProxyClass;
+import com.example.demo.dc.design.proxypattern.staticproxy.StaticProxy;
+import com.example.demo.dc.design.proxypattern.staticproxy.StaticProxyClass;
 
 import java.lang.reflect.Proxy;
 
